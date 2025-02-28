@@ -14,16 +14,17 @@ I'm passionate about sharing knowledge and learning alongside others in the cybe
 |         3. Server-Client_in_c         |                 `Socket Programming`, `TCP/IP Model`, `Error Handling`, `C`                  |         [link](https://github.com/EADDRINUSE-98/Server-Client_in_c)          |
 
 # Experience
-
 ### AIG Shields Up: Cybersecurity virtual experience program on Forage - February 2025
 - Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
 - Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
 - Drafted a clear and concise email to guide teams on vulnerability remediation.
 - Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
+
 ### Mastercard Cybersecurity virtual experience program on Forage - February 2025
 - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
 - Helped identify and report security threats such as phishing.
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+
 # Blogs
 - [5 Linux Commands Every Cybersecurity Professional Should Know](https://medium.com/@eaddrinuse-98/5-linux-commands-every-cybersecurity-professional-should-know-7ddf653186a8)
 - [Overview of NIST’s Cybersecurity Framework (CSF) Functions](https://medium.com/@eaddrinuse-98/overview-of-nists-cybersecurity-framework-csf-functions-09c4e8686b08)
