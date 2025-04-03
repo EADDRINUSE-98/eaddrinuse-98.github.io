@@ -28,3 +28,4 @@ I'm passionate about sharing knowledge and learning alongside others in the cybe
 # Blogs
 - [5 Linux Commands Every Cybersecurity Professional Should Know](https://medium.com/@eaddrinuse-98/5-linux-commands-every-cybersecurity-professional-should-know-7ddf653186a8)
 - [Overview of NIST’s Cybersecurity Framework (CSF) Functions](https://medium.com/@eaddrinuse-98/overview-of-nists-cybersecurity-framework-csf-functions-09c4e8686b08)
+- [Log Shipping With Vector by Datadog - Part 1](https://medium.com/@eaddrinuse-98/log-shipping-with-vector-by-datadog-part-1-666011eeecc6)
