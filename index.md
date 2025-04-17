@@ -29,3 +29,5 @@ I'm passionate about sharing knowledge and learning alongside others in the cybe
 - [5 Linux Commands Every Cybersecurity Professional Should Know](https://medium.com/@eaddrinuse-98/5-linux-commands-every-cybersecurity-professional-should-know-7ddf653186a8)
 - [Overview of NIST’s Cybersecurity Framework (CSF) Functions](https://medium.com/@eaddrinuse-98/overview-of-nists-cybersecurity-framework-csf-functions-09c4e8686b08)
 - [Log Shipping With Vector by Datadog - Part 1](https://medium.com/@eaddrinuse-98/log-shipping-with-vector-by-datadog-part-1-666011eeecc6)
+- [Log Shipping With Vector by Datadog — Part 2](https://medium.com/@eaddrinuse-98/log-shipping-with-vector-by-datadog-part-2-f776638b4b07)
+- [Creating A Port Scanner With Python](https://medium.com/@eaddrinuse-98/creating-a-port-scanner-with-python-4f24164b60e8)
